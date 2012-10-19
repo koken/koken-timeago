@@ -1,0 +1,10 @@
+{ 
+	"name": "Timeago",
+	"version": "1.0",
+	"description": "Convert date/time output to relative format (e.g. \"4 hours ago\")",
+	"demo": "http://koken.me",
+	"author": {
+		"name": "Koken",
+		"link": "http://koken.me"
+	}
+}
