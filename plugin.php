@@ -4,7 +4,7 @@ class KokenTimeago extends KokenPlugin {
 
 	function __construct()
 	{
-		$this->register_output_filter('before_closing_head', 'setup');
+		$this->register_filter('before_closing_head', 'setup');
 	}
 
 	function setup()
