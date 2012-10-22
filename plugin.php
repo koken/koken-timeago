@@ -4,14 +4,14 @@ class KokenTimeago extends KokenPlugin {
 
 	function __construct()
 	{
-		$this->register_filter('before_closing_head', 'setup');
+		$this->register_hook('before_closing_head', 'setup');
 	}
 
 	function setup()
 	{
 
 		$path = $this->get_path();
-		return <<<OUT
+		echo <<<OUT
 <script src="{$path}/jquery.timeago.js"></script>
 <script>
 	$(function() {
