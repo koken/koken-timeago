@@ -9,10 +9,7 @@ class KokenTimeago extends KokenPlugin {
 
 	function setup()
 	{
-
-		$path = $this->get_path();
 		echo <<<OUT
-<script src="{$path}/jquery.timeago.js"></script>
 <script>
 	$(function() {
 		$('time').timeago();

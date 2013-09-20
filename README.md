@@ -1,7 +1,7 @@
 Timeago plugin for Koken
 ========================
 
-This [Koken](http://koken.me) plugin turns any koken:time generated date or time and turns it into a relative date (e.g. 4 days ago). Koken 0.5+ required.
+This [Koken](http://koken.me) plugin turns any koken:time generated date or time and turns it into a relative date (e.g. 4 days ago). Koken 0.10+ required.
 
 Documentation: http://help.koken.me/customer/portal/articles/874109-timeago
 
