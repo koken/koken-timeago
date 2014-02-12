@@ -1,0 +1,1 @@
+This plugin turns any `<koken:time>` generated date or time and publishes it as a relative date (e.g. 4 days ago) on your Koken site. Compatible with any Koken theme that includes `<koken:time>` template tags.
