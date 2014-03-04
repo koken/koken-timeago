@@ -1,7 +1,7 @@
 {
 	"name": "Timeago",
 	"version": "1.1",
-	"description": "Convert date/time output to relative format (e.g. \"4 hours ago\")",
+	"description": "Converts timestamps to a relative format.",
 	"demo": "http://koken.me",
 	"author": {
 		"name": "Koken",
