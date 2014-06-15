@@ -8,7 +8,7 @@ Documentation: http://help.koken.me/customer/portal/articles/874109-timeago
 License
 -------
 
-Copyright (c) 2013 Dominey Design Inc.
+Copyright (c) 2013-4 Koken.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
